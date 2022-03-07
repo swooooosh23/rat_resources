@@ -1,0 +1,4 @@
+best_vid = 'https://www.youtube.com/watch?v=iyn2zdALii8'
+
+timestamp 5:54 is good, we need to sum over all input values
+
